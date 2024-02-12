@@ -15,5 +15,5 @@ M N O P**
 you have to type *abcdefghijklmnop* when your are asked for the letters.
 You can actually use different size for the board then 4x4 but it has to be nxn(square).
 ## Potential problems
-To make the program work with polish special characters I had to use *setlocale* function. If you want to use a language with different special characters then you will have to change the parameters in *setlocale*.
+To make the program work with polish special characters I had to use *setlocale* function. If you want to use a language with different special characters then you will have to change the parameters in *setlocale*.  
 The dictionary that I've provided contains only words with less then 16 letters. 
